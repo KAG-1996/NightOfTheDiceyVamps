@@ -26,14 +26,14 @@ public class Custom_TMP_Dropdown : TMP_Dropdown
     public override void OnSubmit(BaseEventData eventData)
     {
         base.OnSubmit(eventData);
-        foreach(var a in m_Items)
+        /*foreach(var a in m_Items)
         {
             if (a.toggle.isOn)
             {
                 InputCall.UpdateSelected(a.gameObject);
                 break;
             }
-        }
+        }*/
     }
     protected override GameObject CreateBlocker(Canvas rootCanvas)
     {
