@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a0484790b387a95459a35c4d4a648751
+  m_SerializeEntries:
+  - m_GUID: 1d480a29aa9c3e848b82e112805f77a8
+    m_Address: Assets/Game/Localization/Menu Labels Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33dc22df580fb504481d0b3652a15e58
+    m_Address: Assets/Game/Localization/TutorialCombat Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59932b682908d4940a143beafebad9d7
+    m_Address: Assets/Game/Localization/Protections Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7448bdae677c25e469981dd9ca37b249
+    m_Address: Assets/Game/Localization/Skills Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bac86c6c11bb18d4fb4e93f98a884595
+    m_Address: Assets/Game/Localization/Special Dices Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1eea8e55da830141bf64857a5c5783f
+    m_Address: Assets/Game/Localization/Map Tile Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdd9af5633b7a284a9349066fe427bbc
+    m_Address: Assets/Game/Localization/Credits Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdfdb85aef91bfc49bc2a20c6e3e054b
+    m_Address: Assets/Game/Localization/Misc Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: e8b86696cdf952442889e6dbecef40a0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4b9004bafd71e3944abdb283c62ecc8a, type: 2}
+    - {fileID: 11400000, guid: b8e4b2d3379be1f48b051586f492834f, type: 2}

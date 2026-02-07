@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TutorialCombat Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TutorialCombat
+  m_TableCollectionNameGuidString: 33dc22df580fb504481d0b3652a15e58
+  m_Entries:
+  - m_Id: 9206476800
+    m_Key: tutoCombat.intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 183987318784
+    m_Key: tutoCombat.dice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228849594368
+    m_Key: tutoCombat.entity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 256733327360
+    m_Key: tutoCombat.retrieve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330985091072
+    m_Key: tutoCombat.roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363067322368
+    m_Key: tutoCombat.shuffle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1042175471616
+    m_Key: tutoCombat.attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062811447296
+    m_Key: tutoCombat.HE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1115760340992
+    m_Key: tutoCombat.triple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1135389683712
+    m_Key: tutoCombat.req
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1191425585152
+    m_Key: tutoCombat.skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1221020594176
+    m_Key: tutoCombat.protection01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1257628479488
+    m_Key: tutoCombat.protection02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1284371361792
+    m_Key: tutoCombat.info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1336313622528
+    m_Key: tutoCombat.waves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1352084205568
+    m_Key: tutoCombat.outro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3623551332495360
+    m_Key: tutoCombat.stats
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4126906176107970567
+  references:
+    version: 2
+    RefIds:
+    - rid: 4126906176107970567
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1763140456082

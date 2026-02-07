@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu Labels_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 1d480a29aa9c3e848b82e112805f77a8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 351801421824
+    m_Localized: Presiona A para Iniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 455283290112
+    m_Localized: Nuevo Juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 582957903872
+    m_Localized: Cargar Juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611076517888
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671273168896
+    m_Localized: Configuraciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 700700405760
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3263910883328
+    m_Localized: Haz Click para Iniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4640368209920
+    m_Localized: "\xC1tras"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6223671832576
+    m_Localized: "FAC\xCDL: \nUn recorrido relajado con recompensas abundantes y
+      enfrentamientos ocasionales"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6258996260864
+    m_Localized: "NORMAL: \nUn camino retador con recompensas oportunas y enfrentamientos
+      frecuentes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6279531573248
+    m_Localized: "DIFIC\xCDL: \nUn sendero imponente con recompensas escazas y enfrentamientos
+      constantes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54852042338304
+    m_Localized: Iniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55462707834880
+    m_Localized: Maestro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55525014220800
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55559235547136
+    m_Localized: Efectos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946316476854272
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946495284228096
+    m_Localized: Preferencias
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

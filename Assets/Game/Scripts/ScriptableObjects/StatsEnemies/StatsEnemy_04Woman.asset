@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 608cae769c19fd344ac41f8898d9b4fc, type: 3}
+  m_Name: StatsEnemy_04Woman
+  m_EditorClassIdentifier: 
+  _typeEnemy: 4
+  _typeDefenses: 020000000300000004000000
+  _goPrefab: {fileID: 2977054437708520677, guid: 9a991c97e28eb534c80a94788b619a2f,
+    type: 3}
+  _sprite: {fileID: 2009501584, guid: f26ab65ec09825343915dc2b82a34894, type: 3}
+  _healthDices: 3
+  _suckOdds: 1

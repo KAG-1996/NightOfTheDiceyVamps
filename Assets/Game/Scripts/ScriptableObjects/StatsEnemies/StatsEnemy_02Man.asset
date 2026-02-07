@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 608cae769c19fd344ac41f8898d9b4fc, type: 3}
+  m_Name: StatsEnemy_02Man
+  m_EditorClassIdentifier: 
+  _typeEnemy: 2
+  _typeDefenses: 010000000200000003000000
+  _goPrefab: {fileID: 1521578155702211824, guid: 923fae728e14fef4c848e1fff080550f,
+    type: 3}
+  _sprite: {fileID: -396459518, guid: f26ab65ec09825343915dc2b82a34894, type: 3}
+  _healthDices: 2
+  _suckOdds: 1

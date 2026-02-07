@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8472e5112c58c5449f385283fee760b, type: 3}
+  m_Name: DiceValue_Regular
+  m_EditorClassIdentifier: 
+  _values:
+  - _ID: 
+    _type: 0
+    _sprite: {fileID: -1860868247, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 0
+    _name: 
+    _desc: 
+  - _ID: 
+    _type: 0
+    _sprite: {fileID: 272470897, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 0
+    _name: 
+    _desc: 
+  - _ID: 
+    _type: 0
+    _sprite: {fileID: -850930860, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 0
+    _name: 
+    _desc: 
+  - _ID: 
+    _type: 0
+    _sprite: {fileID: 914015153, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 0
+    _name: 
+    _desc: 
+  - _ID: 
+    _type: 0
+    _sprite: {fileID: 96490731, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 0
+    _name: 
+    _desc: 
+  - _ID: 
+    _type: 0
+    _sprite: {fileID: -1564700027, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 0
+    _name: 
+    _desc: 
+  - _ID: 
+    _type: 0
+    _sprite: {fileID: 227267047, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 0
+    _name: 
+    _desc: 

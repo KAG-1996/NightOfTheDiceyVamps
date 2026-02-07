@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Protections_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 59932b682908d4940a143beafebad9d7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 48209309696
+    m_Localized: "Fragil:\nEl da\xF1o ser\xE1 total si es mayor a la defensa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274252935168
+    m_Localized: "Resistente:\nEl valor de defensa reducir\xE1 el da\xF1o total"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299485868032
+    m_Localized: "Par o Impar:\nBloqueable si da\xF1o y defensa coinciden como par
+      o impar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350283083776
+    m_Localized: "Exacto:\nEl da\xF1o se efectuar\xE1 solo si es igual a la defensa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371187494912
+    m_Localized: "Contra Cara:\nEl valor opuesto del dado aplicar\xE1 el total de
+      da\xF1o"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

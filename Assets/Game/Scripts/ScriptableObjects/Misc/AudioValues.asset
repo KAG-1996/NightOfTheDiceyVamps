@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f85393456b8758418bb63ced812c9be, type: 3}
+  m_Name: AudioValues
+  m_EditorClassIdentifier: 
+  _music:
+  - _ID: OPENING
+    _type: 0
+    _scene: 6
+    _isLoop: 1
+    _audioClip: {fileID: 8300000, guid: 2ef59e0ebff122740aa5e6f80db65597, type: 3}
+  - _ID: MAIN
+    _type: 1
+    _scene: 1
+    _isLoop: 1
+    _audioClip: {fileID: 8300000, guid: 9b5b3d9a6fda8824b846adf6b2950ce9, type: 3}
+  - _ID: MAP
+    _type: 2
+    _scene: 2
+    _isLoop: 1
+    _audioClip: {fileID: 8300000, guid: 5e11fd2b76063d14382d90446c7bd553, type: 3}
+  - _ID: BATTLE
+    _type: 3
+    _scene: 3
+    _isLoop: 1
+    _audioClip: {fileID: 8300000, guid: f7a3b1e6155731b41870788b523e1035, type: 3}
+  - _ID: TUTORIAL
+    _type: 7
+    _scene: 5
+    _isLoop: 1
+    _audioClip: {fileID: 8300000, guid: 074b2dce9052e524680ec08c01e3fdd0, type: 3}
+  - _ID: CREDITS
+    _type: 6
+    _scene: 4
+    _isLoop: 1
+    _audioClip: {fileID: 8300000, guid: ef3d02b18e66f014398976076c29ed62, type: 3}
+  _sfx:
+  - _ID: HIT
+    _type: 0
+    _audioClip: {fileID: 8300000, guid: 72ba9ed486a6e364fba73ba3adacbf80, type: 3}
+  - _ID: NAV
+    _type: 1
+    _audioClip: {fileID: 8300000, guid: 61185a265e522ad4e86b8e0675b255f0, type: 3}
+  - _ID: SUBMIT
+    _type: 2
+    _audioClip: {fileID: 8300000, guid: a5e18360bdd93bc46814f58fa0771200, type: 3}
+  - _ID: BLOCK
+    _type: 3
+    _audioClip: {fileID: 8300000, guid: cf549b370d3463041939908caa003678, type: 3}

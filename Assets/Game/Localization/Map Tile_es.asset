@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Map Tile_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: c1eea8e55da830141bf64857a5c5783f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 33340502016
+    m_Localized: Inicio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 531820949504
+    m_Localized: Combate simple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628994584576
+    m_Localized: Combate por oleadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 736570093568
+    m_Localized: Un dado de salud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757810049024
+    m_Localized: "Un dado de energ\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831730462720
+    m_Localized: Un dado aleaterio para el mazo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 850252509184
+    m_Localized: Un dado de habilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 964975112192
+    m_Localized: "Cambio de tipo de protecci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001046126592
+    m_Localized: Un movimiento extra para volver a girar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1094528774144
+    m_Localized: Un movimiento extra para volver a cambiar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1270320443392
+    m_Localized: Jefe Final
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

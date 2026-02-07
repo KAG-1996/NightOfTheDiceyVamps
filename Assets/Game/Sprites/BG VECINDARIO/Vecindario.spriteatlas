@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Vecindario
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 36b9759cf8d3dc7438630c2815c4ca95, type: 3}
+    - {fileID: 2800000, guid: c28717ede4ea62d4bb01049e8c953617, type: 3}
+    - {fileID: 2800000, guid: 7bb5feadd4580464ca779fe8184eda48, type: 3}
+    - {fileID: 2800000, guid: c36a1753be803944db8798d45bdd703a, type: 3}
+    - {fileID: 2800000, guid: 7e9b887df24a58843a08e0fdfeb7ebed, type: 3}
+    - {fileID: 2800000, guid: 70c18969819d7a14badfcd1c7ad5e36c, type: 3}
+    - {fileID: 2800000, guid: b8a2760a63bee254d806bfec8bc399d7, type: 3}
+    - {fileID: 2800000, guid: 4f730a119f0620348b5130f90506cc52, type: 3}
+    - {fileID: 2800000, guid: 4e0ee626473a6b1498c7c4507e989bfa, type: 3}
+    - {fileID: 2800000, guid: 7ac8f0b4710eb2a42b21d937cfc49ce2, type: 3}
+    - {fileID: 2800000, guid: 5c73c9b697087ba4f81158f27cd36e07, type: 3}
+    - {fileID: 2800000, guid: 4b750286bb1babb4b8cfa2fc7247d052, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 4f730a119f0620348b5130f90506cc52: 21300000
+    - c36a1753be803944db8798d45bdd703a: 21300000
+    - 7ac8f0b4710eb2a42b21d937cfc49ce2: 21300000
+    - 4e0ee626473a6b1498c7c4507e989bfa: 21300000
+    - 4b750286bb1babb4b8cfa2fc7247d052: 21300000
+    - 5c73c9b697087ba4f81158f27cd36e07: 21300000
+    - 70c18969819d7a14badfcd1c7ad5e36c: 21300000
+    - 36b9759cf8d3dc7438630c2815c4ca95: 21300000
+    - 7e9b887df24a58843a08e0fdfeb7ebed: 21300000
+    - 7bb5feadd4580464ca779fe8184eda48: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4f730a119f0620348b5130f90506cc52, type: 3}
+  - {fileID: 21300000, guid: c36a1753be803944db8798d45bdd703a, type: 3}
+  - {fileID: 21300000, guid: 7ac8f0b4710eb2a42b21d937cfc49ce2, type: 3}
+  - {fileID: 21300000, guid: 4e0ee626473a6b1498c7c4507e989bfa, type: 3}
+  - {fileID: 21300000, guid: 4b750286bb1babb4b8cfa2fc7247d052, type: 3}
+  - {fileID: 21300000, guid: 5c73c9b697087ba4f81158f27cd36e07, type: 3}
+  - {fileID: 21300000, guid: 70c18969819d7a14badfcd1c7ad5e36c, type: 3}
+  - {fileID: 21300000, guid: 36b9759cf8d3dc7438630c2815c4ca95, type: 3}
+  - {fileID: 21300000, guid: 7e9b887df24a58843a08e0fdfeb7ebed, type: 3}
+  - {fileID: 21300000, guid: 7bb5feadd4580464ca779fe8184eda48, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Map level-Arboles02_V2
+  - Cloud (2)
+  - Map level_V2
+  - Map level-Arboles_V2
+  - "Sin-t\xEDtulo-1_0000s_0006_CIELO"
+  - Moon
+  - Map level
+  - Calle_Textura
+  - Cloud (3)
+  - Cloud (1)
+  m_RenderDataMap: {}
+  m_Tag: Vecindario
+  m_IsVariant: 0

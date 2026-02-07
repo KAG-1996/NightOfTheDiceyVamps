@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Skills Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Skills
+  m_TableCollectionNameGuidString: 7448bdae677c25e469981dd9ca37b249
+  m_Entries:
+  - m_Id: 7402926080
+    m_Key: skill.nameFoeStats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2223266312192
+    m_Key: skill.descFoeStats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334214705152
+    m_Key: skill.nameFoeIndefenses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2840332316672
+    m_Key: skill.descFoeIndefenses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 580302909440
+    m_Key: skill.nameFoeDefense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678633508864
+    m_Key: skill.descFoeDefense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619930693632
+    m_Key: skill.namePlyrHeal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2585285079040
+    m_Key: skill.descPlyrHeal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671742930944
+    m_Key: skill.namePlyrRestore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421338124288
+    m_Key: skill.descPlyrRestore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 704118763520
+    m_Key: skill.namePlyrInvincible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2351242915840
+    m_Key: skill.descPlyrInvincible
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4126906176107970560
+  references:
+    version: 2
+    RefIds:
+    - rid: 4126906176107970560
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1763134994779

@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 918d481f37560d5419302c5b5dfdfa6c, type: 3}
+  m_Name: Speech_TutorialCombat
+  m_EditorClassIdentifier: 
+  _speechLines:
+  - _ID: INTRO
+    _tittle: INTRO
+    _desc: "Para que veas que no soy tan malo como aparento, te explicar\xE9 las
+      reglas de mi juego."
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 9206476800
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: HEALTH ENERGY
+    _tittle: HEALTH ENERGY
+    _desc: 'Los <sprite=14> rojos representan tu <sprite=1>
+
+      Los <sprite=14>
+      verdes representan tu <sprite=0>'
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1062811447296
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: STATS
+    _tittle: STATS
+    _desc: "<sprite=7> representa el tipo de defensa de cada personaje.\n<sprite=5>
+      representa el ataque proveniente del enemigo.\n<sprite=6> representa el da\xF1o
+      que el enemigo recibir\xE1."
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 3623551332495360
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: PROTECTION
+    _tittle: PROTECTION
+    _desc: "Presta mucha atenci\xF3n al tipo de <sprite=7> que poseen los enemigos
+      y t\xFA, ya que los valores de los <sprite=14> pueden estar a tu favor o en
+      contra."
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1221020594176
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: PROTECTION-02
+    _tittle: PROTECTION-02
+    _desc: "Asignar <sprite=14> especiales a tu <sprite=7> no sumar\xE1 m\xE1s valor
+      a la misma, pero si gastar\xE1 <sprite=0>"
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1257628479488
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: ROLL
+    _tittle: ROLL
+    _desc: "Si ning\xFAn <sprite=14> en tu mano te favorece, puedes volver a lanzarlos
+      con <sprite=8> si tienes los movimientos para hacerlo."
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 330985091072
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: SHUFFLE
+    _tittle: SHUFFLE
+    _desc: Si quieres cambiar tus <sprite=14> por otros de otro tipo en tu mazo,
+      puedes cambiarlos con <sprite=9> si tienes los movimientos para hacerlo.
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 363067322368
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: DICE
+    _tittle: DICE
+    _desc: "Escoje un <sprite=14> d\xE9spues de que estos deje de girar."
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 183987318784
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: ENTITY
+    _tittle: ENTITY
+    _desc: "Con un <sprite=14> seleccionado, as\xEDgnalo al h\xE9roe para dar valor
+      a su <sprite=7> y protegerlo de <sprite=5> o a alg\xFAn enemigo para infringir
+      <sprite=6>"
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 228849594368
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: RETRIVE
+    _tittle: RETRIVE
+    _desc: "Si quieres recuperar alg\xFAn <sprite=14> selecciona el personaje de
+      quien deseas recuperarlo."
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 256733327360
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: REQUIREMENTS
+    _tittle: REQUIREMENTS
+    _desc: "El n\xFAmero que aparece arriba de cada <sprite=14> de tu mano indica
+      la cantidad de <sprite=0> requerida para usarlo."
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1135389683712
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: INFO
+    _tittle: INFO
+    _desc: "Puedes consultar cada tipo de <sprite=7> el consumo de <sprite=0> e inflicci\xF3n
+      de <sprite=6> con <sprite=13>"
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1284371361792
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: ATTACK
+    _tittle: ATTACK
+    _desc: Una vez asignados todos los <sprite=14> puedes proceder a jugar el turno
+      con <sprite=10>
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1042175471616
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: TRIPLE
+    _tittle: TRIPLE
+    _desc: "Si tres o m\xE1s <sprite=14> coinciden despu\xE9s de girarlos, podr\xE1s
+      recuperar algo de <sprite=0>"
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1115760340992
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: SKILLS
+    _tittle: SKILLS
+    _desc: "Si tienes un <sprite=12> puedes usarlo para salir de un apuro, pero solo
+      puedes usar uno por turno y este se perder\xE1."
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1191425585152
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: WAVES
+    _tittle: WAVES
+    _desc: "En algunas ocasiones deber\xE1s enfrentar numerosas oleadas de enemigos,
+      as\xED que es mejor que no malgastes toda tu <sprite=0>"
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1336313622528
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: OUTRO
+    _tittle: OUTRO
+    _desc: 'Ahora bien, con todo esto dicho te espero al final del camino.
+
+      Si
+      sobrevives...'
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:33dc22df580fb504481d0b3652a15e58
+      m_TableEntryReference:
+        m_KeyId: 1352084205568
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

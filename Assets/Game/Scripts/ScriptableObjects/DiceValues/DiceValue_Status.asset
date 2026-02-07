@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8472e5112c58c5449f385283fee760b, type: 3}
+  m_Name: DiceValue_Status
+  m_EditorClassIdentifier: 
+  _values:
+  - _ID: NONE
+    _type: 0
+    _sprite: {fileID: -1860868247, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 0
+    _name: 
+    _desc: 
+    _locStringName:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _locStringDesc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: ENEMIES_STATS
+    _type: 1
+    _sprite: {fileID: -1045804911, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 4
+    _name: CAMBIA ESTADISTICAS
+    _desc: Cambia las estadisticas de los enemigos
+    _locStringName:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 7402926080
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _locStringDesc:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 2223266312192
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: ENEMIES_INDEFENSE
+    _type: 2
+    _sprite: {fileID: 1668131249, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 6
+    _name: ROMPE DEFENSA
+    _desc: Deshabilita los puntos de defensa de todos los enemigos
+    _locStringName:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 334214705152
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _locStringDesc:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 2840332316672
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: ENEMIES_DEFENSES
+    _type: 3
+    _sprite: {fileID: -366479404, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 8
+    _name: CAMBIA DEFENSA
+    _desc: "Intercambia el tipo de protecci\xF3n de todos los enemigos"
+    _locStringName:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 580302909440
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _locStringDesc:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 2678633508864
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: PLAYER_HEAL
+    _type: 4
+    _sprite: {fileID: -1429733087, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 10
+    _name: "CURACI\xD3N"
+    _desc: Restablece un dado de salud del jugador
+    _locStringName:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 619930693632
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _locStringDesc:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 2585285079040
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: PLAYER_RESTORE
+    _type: 5
+    _sprite: {fileID: 251846258, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 12
+    _name: "RESTAURACI\xD3N"
+    _desc: Restablece un dado de energia del jugador
+    _locStringName:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 671742930944
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _locStringDesc:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 2421338124288
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: PLAYER_INVINCIBLE
+    _type: 6
+    _sprite: {fileID: -1051015242, guid: 609b66491769f474895f7d1f039f5036, type: 3}
+    _energyReq: 12
+    _name: INVENCIBLE
+    _desc: "El jugador no recibir\xE1 da\xF1o por un turno"
+    _locStringName:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 704118763520
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _locStringDesc:
+      m_TableReference:
+        m_TableCollectionName: GUID:7448bdae677c25e469981dd9ca37b249
+      m_TableEntryReference:
+        m_KeyId: 2351242915840
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

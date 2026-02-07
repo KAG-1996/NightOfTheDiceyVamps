@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 918d481f37560d5419302c5b5dfdfa6c, type: 3}
+  m_Name: Speech_Dificulties
+  m_EditorClassIdentifier: 
+  _speechLines:
+  - _ID: EASY
+    _tittle: EASY
+    _desc: "FAC\xCDL: \nUn recorrido relajado con recompensas abundantes y enfrentamientos
+      ocasionales"
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:1d480a29aa9c3e848b82e112805f77a8
+      m_TableEntryReference:
+        m_KeyId: 6223671832576
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: NORMAL
+    _tittle: NORMAL
+    _desc: "NORMAL: \nUn camino retador con recompensas oportunas y enfrentamientos
+      frecuentes"
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:1d480a29aa9c3e848b82e112805f77a8
+      m_TableEntryReference:
+        m_KeyId: 6258996260864
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - _ID: HARD
+    _tittle: HARD
+    _desc: "DIFIC\xCDL: \nUn sendero imponente con recompensas escazas y enfrentamientos
+      constantes"
+    _locString:
+      m_TableReference:
+        m_TableCollectionName: GUID:1d480a29aa9c3e848b82e112805f77a8
+      m_TableEntryReference:
+        m_KeyId: 6279531573248
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

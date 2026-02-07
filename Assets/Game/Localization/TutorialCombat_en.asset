@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialCombat_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 33dc22df580fb504481d0b3652a15e58, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1352084205568
+    m_Localized: "\rNow then, with all that said, I'll see you at the end of the
+      road.\r\n\rIf you can..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1336313622528
+    m_Localized: Sometimes you'll must face with numerous waves of enemies, so manage
+      your <sprite=0> well for the remaining waves.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1284371361792
+    m_Localized: "You can consult with <sprite=13>:\n-<sprite=7> types. \n-<sprite=0>
+      consumption.\n-<sprite=6> infliction."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1257628479488
+    m_Localized: "Assigning an special <sprite=14> to your <sprite=7> won\xB4t add
+      more value to it, but it will consume <sprite=0>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1221020594176
+    m_Localized: "\rPay close attention to all <sprite=7> for all characters,  values
+      \u200B\u200Bof the <sprite=14> can be in your favor or against you."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1191425585152
+    m_Localized: If you have an <sprite=12> you can use it to get out of a tight
+      spot, but you can only use one per turn and it will be lost.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1135389683712
+    m_Localized: "\rThe number above each <sprite=14> in your hand indicates the
+      amount of <sprite=0> required to use it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1115760340992
+    m_Localized: If three or more <sprite=14> match after reroll them, you can recover
+      <sprite=0>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062811447296
+    m_Localized: 'The <sprite=14> with <sprite=1> are life gauge.
+
+      The <sprite=14>
+      with <sprite=0> are energy gauge.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1042175471616
+    m_Localized: Once all the <sprite=14> have been assigned, you can proceed to
+      play the turn with <sprite=10>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363067322368
+    m_Localized: If you want to change your <sprite=14> for other types in your deck,
+      you can change them with <sprite=9> if you have remaining moves.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330985091072
+    m_Localized: If none of the <sprite=14> in your hand are favorable, you can reroll
+      them with <sprite=8> if you have moves left.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 256733327360
+    m_Localized: If you want to recover an <sprite=14> assigned, select the character
+      from whom you want to recover it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228849594368
+    m_Localized: With an <sprite=14> selected, assign it to the hero to give value
+      to their <sprite=7> and protect him from <sprite=5> or to an enemy to deal
+      <sprite=6>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 183987318784
+    m_Localized: Choose an <sprite=14> after these stop spinning.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9206476800
+    m_Localized: To show you that I'm not so bad as I look like, I'll explain to
+      you the rules of my game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3623551332495360
+    m_Localized: '<sprite=7>display defense''s type.
+
+      <sprite=5>display damage
+      to receive.
+
+      <sprite=6>display damage to deal.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

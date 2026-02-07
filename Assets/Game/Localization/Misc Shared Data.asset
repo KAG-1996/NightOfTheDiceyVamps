@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Misc Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Misc
+  m_TableCollectionNameGuidString: fdfdb85aef91bfc49bc2a20c6e3e054b
+  m_Entries:
+  - m_Id: 5880393728
+    m_Key: misc.tiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105033740288
+    m_Key: misc.protections
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175732928512
+    m_Key: misc.dices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75787885588480
+    m_Key: misc.skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77660428414976
+    m_Key: misc.loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78117427195904
+    m_Key: misc.yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78167259721728
+    m_Key: misc.no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78308087672832
+    m_Key: misc.backMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78337410052096
+    m_Key: misc.exitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717023390707712
+    m_Key: misc.activate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 718062269476864
+    m_Key: misc.wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 759481013088256
+    m_Key: misc.gameover
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4126906131107545102
+  references:
+    version: 2
+    RefIds:
+    - rid: 4126906131107545102
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1762966640016

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea59f94af43eac14482159fe3604564a, type: 3}
+  m_Name: BattleSets_
+  m_EditorClassIdentifier: 
+  _battleSets:
+  - _ID: SET FROM 0 TO 5
+    _fromLv: 0
+    _toLv: 5
+    _totalEnemies: 1
+    _totalWaves: 2
+    _enemies:
+    - {fileID: 11400000, guid: 99f3694cce611a0409acf642e493578d, type: 2}
+    - {fileID: 11400000, guid: 45e6a0eb122b4144591513f17a0b329d, type: 2}
+  - _ID: SET FROM 6 TO 10
+    _fromLv: 6
+    _toLv: 10
+    _totalEnemies: 2
+    _totalWaves: 2
+    _enemies:
+    - {fileID: 11400000, guid: 99f3694cce611a0409acf642e493578d, type: 2}
+    - {fileID: 11400000, guid: 4f7ad6a8af5b5744fb5b8b90cc1e9ecf, type: 2}
+  - _ID: SET FROM 11 TO 15
+    _fromLv: 11
+    _toLv: 15
+    _totalEnemies: 2
+    _totalWaves: 2
+    _enemies:
+    - {fileID: 11400000, guid: 4f7ad6a8af5b5744fb5b8b90cc1e9ecf, type: 2}
+    - {fileID: 11400000, guid: f48fbac22d263ab4cb33a366fabb0797, type: 2}
+  - _ID: SET FROM 16 TO 20
+    _fromLv: 16
+    _toLv: 20
+    _totalEnemies: 2
+    _totalWaves: 2
+    _enemies:
+    - {fileID: 11400000, guid: f48fbac22d263ab4cb33a366fabb0797, type: 2}
+    - {fileID: 11400000, guid: 2aaf003658990764092ffe3376c1473e, type: 2}
+  - _ID: SET FROM 21 TO 25
+    _fromLv: 21
+    _toLv: 25
+    _totalEnemies: 3
+    _totalWaves: 2
+    _enemies:
+    - {fileID: 11400000, guid: 4f7ad6a8af5b5744fb5b8b90cc1e9ecf, type: 2}
+    - {fileID: 11400000, guid: 2aaf003658990764092ffe3376c1473e, type: 2}
+    - {fileID: 11400000, guid: f48fbac22d263ab4cb33a366fabb0797, type: 2}
+  - _ID: SET FROM 26 TO 50
+    _fromLv: 26
+    _toLv: 50
+    _totalEnemies: 3
+    _totalWaves: 3
+    _enemies:
+    - {fileID: 11400000, guid: 99f3694cce611a0409acf642e493578d, type: 2}
+    - {fileID: 11400000, guid: 45e6a0eb122b4144591513f17a0b329d, type: 2}
+    - {fileID: 11400000, guid: 4f7ad6a8af5b5744fb5b8b90cc1e9ecf, type: 2}
+    - {fileID: 11400000, guid: 2aaf003658990764092ffe3376c1473e, type: 2}
+    - {fileID: 11400000, guid: f48fbac22d263ab4cb33a366fabb0797, type: 2}
+  - _ID: SET FROM 0 TO 50
+    _fromLv: 0
+    _toLv: 50
+    _totalEnemies: 1
+    _totalWaves: 2
+    _enemies:
+    - {fileID: 11400000, guid: 9518b6f1f74fb0f47ba4ddf634c13b6d, type: 2}

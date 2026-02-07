@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialCombat_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 33dc22df580fb504481d0b3652a15e58, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9206476800
+    m_Localized: "Para que veas que no soy tan malo como aparento, te explicar\xE9
+      las reglas de mi juego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 183987318784
+    m_Localized: "Escoje un <sprite=14> d\xE9spues de que estos deje de girar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228849594368
+    m_Localized: "Con un <sprite=14> seleccionado, as\xEDgnalo al h\xE9roe para dar
+      valor a su <sprite=7> y protegerlo de <sprite=5> o a alg\xFAn enemigo para
+      infligir <sprite=6>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 256733327360
+    m_Localized: "Si deseas recuperar alg\xFAn <sprite=14> asignado, selecciona el
+      personaje de quien deseas recuperarlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330985091072
+    m_Localized: "Si ning\xFAn <sprite=14> en tu mano te favorece, puedes volver
+      a lanzarlos con <sprite=8> si te quedan movimientos restantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363067322368
+    m_Localized: Si deseas cambiar tus <sprite=14> por de otro tipo en tu mazo, puedes
+      cambiarlos con <sprite=9> si tienes movimientos restantes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1042175471616
+    m_Localized: Una vez asignados todos los <sprite=14> puedes proceder a jugar
+      el turno con <sprite=10>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062811447296
+    m_Localized: "Los <sprite=14> con <sprite=1> son tu salud.\nLos <sprite=14> con
+      <sprite=0> son tu energ\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1115760340992
+    m_Localized: "Si tres o m\xE1s <sprite=14> coinciden al girarlos, recuperar\xE1s
+      algo de <sprite=0>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1135389683712
+    m_Localized: "El n\xFAmero de arriba de cada <sprite=14> en tu mano indica la
+      cantidad de <sprite=0> requerida para utilizarlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1191425585152
+    m_Localized: "Si tienes un <sprite=12> puedes utilizarlo para salir de un aprieto,
+      pero solo puedes utilizar uno por turno y este se perder\xE1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1221020594176
+    m_Localized: Ten cuidado con todas las <sprite=7> de los personajes, ya que los
+      valores de los <sprite=14> pueden estar a tu favor o en contra.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1257628479488
+    m_Localized: "Asignar un <sprite=14> especial a tu <sprite=7> no sumar\xE1 m\xE1s
+      valor a la misma, pero si gastar\xE1 <sprite=0>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1284371361792
+    m_Localized: "Puedes consultar con <sprite=13>:\n- Cada tipo de <sprite=7> \n-
+      Consumo de <sprite=0>\n- Inflicci\xF3n de <sprite=6> "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1336313622528
+    m_Localized: "En algunas ocasiones deber\xE1s enfrentar numerosas oleadas de
+      enemigos, as\xED que cuida bien de tu <sprite=0> para las oleadas restantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1352084205568
+    m_Localized: 'Ahora bien, con todo esto dicho te espero al final del camino.
+
+      Si
+      sobrevives...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3623551332495360
+    m_Localized: "<sprite=7>Muestra los tipos de defensa.\n<sprite=5>Muestra el da\xF1o
+      a recibir.\n<sprite=6>Muestra el da\xF1o a dar."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
