@@ -31,6 +31,12 @@ public class ManagerData : MonoBehaviour
     }
     private void Start()
     {
+        StartCoroutine(ILocalizationSettings());
+    }
+
+    IEnumerator ILocalizationSettings()
+    {
+        yield return LocalizationSettings.InitializationOperation;
         LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[_saveData._settingsData._idiom];
     }
     public void Save()

@@ -45,6 +45,8 @@ public class ManagerAudio : MonoBehaviour
     }
     public void UpdateAudioVolume()
     {
+        try { if (Data == null) return; }
+        catch { return; }
         _gMixerMaster.audioMixer.SetFloat("Master", Mathf.Log10(Data._settingsData._audioMaster) * 20);
         _gMixerMusic.audioMixer.SetFloat("Music", Mathf.Log10(Data._settingsData._auidioMusic)* 20);
         _gMixerSFX.audioMixer.SetFloat("SFX", Mathf.Log10(Data._settingsData._audioSFX) * 20);
